@@ -303,6 +303,9 @@ button:hover{
 .sublinhado:hover{
     text-decoration: underline;
 }
+.nada{
+    
+}
 @media (max-width: 935px){
     .logomobile{
         display: none;

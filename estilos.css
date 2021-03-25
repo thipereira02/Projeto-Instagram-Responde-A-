@@ -359,6 +359,9 @@ button:hover{
     .seta{
         display: none;
     }
+    .like{
+        margin-right: 7px;
+    }
     .barrainferior{
         position: fixed;
         bottom: 0;
